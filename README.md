@@ -33,7 +33,6 @@
 
 ## 🌿 성과
 [한국정보과학회 KCC 2023: 학부생부분 장려상](https://www.kiise.or.kr/academy/board/academyNewsView.fa?MENU_ID=080100&sch_add_bd=%ED%95%99%ED%9A%8C%EC%86%8C%EC%8B%9D&NUM=2432) <br>
-
 [KCC2023_출판용논문.pdf](https://github.com/CSID-DGU/2023-01-CECD2-1/files/12582398/KCC2023_.pdf)
 
 
